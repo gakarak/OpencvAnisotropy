@@ -12,4 +12,10 @@ $ cmake ..
 $ make
 ```
 
+To run
+
+```
+$ OpencvAnisotropy_Debug_x64 ../Lines_Various_Angles_resiz.tif 18
+```
+
 Reruiremets: [OpenCV](http://opencv.org/)
